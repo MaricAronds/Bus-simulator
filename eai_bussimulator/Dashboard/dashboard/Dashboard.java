@@ -89,5 +89,6 @@ public class Dashboard extends Application {
 
 	public void doeHetNouGewoon() {
 		System.out.println("POTVERDORIE");
+		System.out.println("POTVERDORIE");
 	}
 } 

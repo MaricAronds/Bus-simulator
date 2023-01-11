@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bus-simulator.iml" filepath="$PROJECT_DIR$/.idea/Bus-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eai_bussimulator/eai_bussimulator.iml" filepath="$PROJECT_DIR$/eai_bussimulator/eai_bussimulator.iml" />
     </modules>
   </component>
 </project>
